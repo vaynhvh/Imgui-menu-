@@ -1,0 +1,43 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(350,11): warning C4189: "deltatime": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(345,9): warning C4101: "current_tab": Unreferenzierte lokale Variable
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(329,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(423,25): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(433,26): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(443,24): warning C4244: "*=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(411,25): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(414,11): warning C4189: "deltatime": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(413,11): warning C4189: "t": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(396,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(597,16): warning C4189: "focus_requested_by_tab": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(596,16): warning C4189: "focus_requested_by_code": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(2187,17): warning C4189: "frame_col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(3345,17): warning C4189: "frame_col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(4156,101): warning C4100: "size_arg": Unreferenzierter formaler Parameter
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(4992,17): warning C4189: "w_items_all": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(5023,16): warning C4189: "hdr": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\imgui_widgets.cpp(5230,99): warning C4100: "ref_col": Unreferenzierter formaler Parameter
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  main.cpp
+C:\Users\vaynh\Desktop\menu src\examples\example_win32_directx9\main.cpp(241,15): warning C4189: "color": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\menu src\examples\example_win32_directx9\main.cpp(427,91): warning C4244: "Argument": Konvertierung von "float" in "UINT", möglicher Datenverlust
+C:\Users\vaynh\Desktop\menu src\examples\example_win32_directx9\main.cpp(427,83): warning C4244: "Argument": Konvertierung von "float" in "UINT", möglicher Datenverlust
+  options.cpp
+  Code wird generiert...
+  example_win32_directx9.vcxproj -> C:\Users\vaynh\Desktop\menu src\examples\example_win32_directx9\Debug\example_win32_directx9.exe
